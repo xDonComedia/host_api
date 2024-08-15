@@ -1,0 +1,114 @@
+[
+    {
+        "ID": "1",
+        "PRODUTO": "Café Brasileiro",
+        "PREÇO": "29.90",
+        "DESCRIÇÃO": "Café Brasileiro de alta qualidade com grãos nobres.",
+        "IMAGEM": "https://telegra.ph/cafe-brasileiro-08-15"
+    },
+    {
+        "ID": "2",
+        "PRODUTO": "Café Argentino",
+        "PREÇO": "28.90",
+        "DESCRIÇÃO": "Café Argentino com sabor intenso e corpo encorpado.",
+        "IMAGEM": "https://example.com/imagem-cafe-robusta.jpg"
+    },
+    {
+        "ID": "3",
+        "PRODUTO": "Café Colombiano",
+        "PREÇO": "32.90",
+        "DESCRIÇÃO": "Café Supremo colombiano com um perfil de sabor equilibrado e notas de frutas e nozes.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "4",
+        "PRODUTO": "Café Etiópio",
+        "PREÇO": "34.90",
+        "DESCRIÇÃO": "Café etíope com sabor frutado e floral, conhecido por sua acidez brilhante e notas de vinho.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "5",
+        "PRODUTO": "Café Vietnamita",
+        "PREÇO": "38.90",
+        "DESCRIÇÃO": "Café vietnamita com sabor intenso e notas terrosas. Ideal para quem busca um café forte.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "6",
+        "PRODUTO": "Café Arábico",
+        "PREÇO": "42.90",
+        "DESCRIÇÃO": "Mistura especial de grãos Arábica e Robusta com sabor complexo e aroma marcante.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "7",
+        "PRODUTO": "Café americano",
+        "PREÇO": "5.50",
+        "DESCRIÇÃO": "Feito na máquina de café expresso, misturado com água quente, resultando em um café forte.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "8",
+        "PRODUTO": "Café vanilla latte",
+        "PREÇO": "7.50",
+        "DESCRIÇÃO": "Bebida cremosa, pois o café expresso é misturado com leite vaporizado.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "9",
+        "PRODUTO": "Café mocha",
+        "PREÇO": "10.00",
+        "DESCRIÇÃO": "Café com um terço de leite vaporizado e a mesma quantidade de calda de chocolate, completo com chantilly.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "10",
+        "PRODUTO": "Café latte macchiato",
+        "PREÇO": "10.00",
+        "DESCRIÇÃO": "“Macchiato” significa “manchado” em italiano, dado pela aparência desse café. Bebida que une a intensidade do espresso ao toque do creme de leite.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "11",
+        "PRODUTO": "Café Iced Caramel Macchiato",
+        "PREÇO": "11.99",
+        "DESCRIÇÃO": "“Macchiato” significa “manchado” em italiano, dado pela aparência desse café. Café com um toque de baunilha, adoçado com um fio de caramelo. Uma bebida fresca.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "12",
+        "PRODUTO": "Café Espresso Temperado",
+        "PREÇO": "15.00",
+        "DESCRIÇÃO": "Espresso com leite e uma pitada de especiarias em pó (canela, noz-moscada, gengibre e pimenta do reino).",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "13",
+        "PRODUTO": "Café Affogato",
+        "PREÇO": "16.50",
+        "DESCRIÇÃO": "Uma bebida gelada, sorvete com um torrado do espresso, pitada de chocolate e um toque de flor de sal.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "14",
+        "PRODUTO": "Café Cappuccino",
+        "PREÇO": "7.00",
+        "DESCRIÇÃO": "Espresso com espuma de leite, com toque de canela ou raspas chocolate.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "15",
+        "PRODUTO": "Café Espresso Espumante com Menta",
+        "PREÇO": "9.00",
+        "DESCRIÇÃO": "Café gelado com gás e um toque de menta.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+    {
+        "ID": "16",
+        "PRODUTO": "Café Latte Gelado",
+        "PREÇO": "15.00",
+        "DESCRIÇÃO": "Bebida fria e cremosa, pois o café expresso é misturado com leite vaporizado.",
+        "IMAGEM": "https://example.com/imagem-cafe-blend.jpg"
+    }
+]
