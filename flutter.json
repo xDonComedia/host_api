@@ -19,91 +19,91 @@
         "PREÇO": "32.90",
         "DESCRIÇÃO": "Café Supremo colombiano com um perfil de sabor equilibrado e notas de frutas e nozes.",
         "IMAGEM": "https://telegra.ph/cafe-colombia-08-15"
-    }
+    },
     {
         "ID": "4",
         "PRODUTO": "Café Etiópio",
         "PREÇO": "34.90",
         "DESCRIÇÃO": "Café etíope com sabor frutado e floral, conhecido por sua acidez brilhante e notas de vinho.",
         "IMAGEM": "https://telegra.ph/cafe-etiopia-08-15"
-    }
+    },
     {
         "ID": "5",
         "PRODUTO": "Café Vietnamita",
         "PREÇO": "38.90",
         "DESCRIÇÃO": "Café vietnamita com sabor intenso e notas terrosas. Ideal para quem busca um café forte.",
         "IMAGEM": "https://telegra.ph/cafe-vietnam-08-15"
-    }
+    },
     {
         "ID": "6",
         "PRODUTO": "Café Arábico",
         "PREÇO": "42.90",
         "DESCRIÇÃO": "Mistura especial de grãos Arábica e Robusta com sabor complexo e aroma marcante.",
         "IMAGEM": "https://telegra.ph/cafe-arabia-08-15"
-    }
+    },
     {
         "ID": "7",
         "PRODUTO": "Café americano",
         "PREÇO": "5.50",
         "DESCRIÇÃO": "Feito na máquina de café expresso, misturado com água quente, resultando em um café forte.",
         "IMAGEM": "https://telegra.ph/americano-08-15"
-    }
+    },
     {
         "ID": "8",
         "PRODUTO": "Café vanilla latte",
         "PREÇO": "7.50",
         "DESCRIÇÃO": "Bebida cremosa, pois o café expresso é misturado com leite vaporizado.",
         "IMAGEM": "https://telegra.ph/vanilla-08-15"
-    }
+    },
     {
         "ID": "9",
         "PRODUTO": "Café mocha",
         "PREÇO": "10.00",
         "DESCRIÇÃO": "Café com um terço de leite vaporizado e a mesma quantidade de calda de chocolate, completo com chantilly.",
         "IMAGEM": "https://telegra.ph/mocha-08-15"
-    }
+    },
     {
         "ID": "10",
         "PRODUTO": "Café latte macchiato",
         "PREÇO": "10.00",
         "DESCRIÇÃO": "“Macchiato” significa “manchado” em italiano, dado pela aparência desse café. Bebida que une a intensidade do espresso ao toque do creme de leite.",
         "IMAGEM": "https://telegra.ph/latte-m-08-15"
-    }
+    },
     {
         "ID": "11",
         "PRODUTO": "Café Iced Caramel Macchiato",
         "PREÇO": "11.99",
         "DESCRIÇÃO": "“Macchiato” significa “manchado” em italiano, dado pela aparência desse café. Café com um toque de baunilha, adoçado com um fio de caramelo. Uma bebida fresca.",
         "IMAGEM": "https://telegra.ph/iced-08-15"
-    }
+    },
     {
         "ID": "12",
         "PRODUTO": "Café Espresso Temperado",
         "PREÇO": "15.00",
         "DESCRIÇÃO": "Espresso com leite e uma pitada de especiarias em pó (canela, noz-moscada, gengibre e pimenta do reino).",
         "IMAGEM": "https://telegra.ph/espresso-temperado-08-15"
-    }
+    },
     {
         "ID": "13",
         "PRODUTO": "Café Affogato",
         "PREÇO": "16.50",
         "DESCRIÇÃO": "Uma bebida gelada, sorvete com um torrado do espresso, pitada de chocolate e um toque de flor de sal.",
         "IMAGEM": "https://telegra.ph/affogato-08-15"
-    }
+    },
     {
         "ID": "14",
         "PRODUTO": "Café Cappuccino",
         "PREÇO": "7.00",
         "DESCRIÇÃO": "Espresso com espuma de leite, com toque de canela ou raspas chocolate.",
         "IMAGEM": "https://telegra.ph/capuccino-08-15"
-    }
+    },
     {
         "ID": "15",
         "PRODUTO": "Café Espresso Espumante com Menta",
         "PREÇO": "9.00",
         "DESCRIÇÃO": "Café gelado com gás e um toque de menta.",
         "IMAGEM": "https://telegra.ph/espumante-menta-08-15"
-    }
+    },
     {
         "ID": "16",
         "PRODUTO": "Café Latte Gelado",
